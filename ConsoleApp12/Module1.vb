@@ -2,9 +2,8 @@
 
     Sub Main()
         Console.WriteLine("*****")
-        Console.WriteLine("1234")
-        Console.WriteLine("1998")
-        Console.WriteLine("*****")
+        Console.WriteLine("####")
+        Console.WriteLine("nishtha")
     End Sub
 
 End Module
